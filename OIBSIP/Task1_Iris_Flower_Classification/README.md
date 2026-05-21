@@ -150,7 +150,7 @@ Task1_Iris_Flower_Classification/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/panthinipatel5/Iris-Flower-Classification.git
+git clone https://github.com/panthinipatel5/OIBSIP/OIBSIP/Task1_Iris_Flower_Classification.git
 ```
 ---
 
