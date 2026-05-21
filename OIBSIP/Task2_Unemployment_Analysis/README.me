@@ -1,0 +1,210 @@
+# 📊 Unemployment Analysis Dashboard  
+## India Covid-19 Impact Analysis using Machine Learning
+
+Transforming unemployment data into meaningful insights through Machine Learning, Analytics, and Interactive Visualization.
+
+An interactive Data Science and Machine Learning project built using **Python**, **Streamlit**, and **Plotly** to analyze the impact of Covid-19 on unemployment trends across India.  
+
+The dashboard provides powerful visual analytics, state-wise comparisons, rural vs urban analysis, and machine learning-based unemployment prediction.
+
+---
+
+# 🚀 Project Features
+
+- 📈 Unemployment trend analysis over time
+- 🗺️ State-wise unemployment comparison
+- 🏙️ Urban vs Rural unemployment insights
+- 📊 Interactive visualizations using Plotly
+- 🔥 Correlation heatmap analysis
+- 🤖 Machine Learning prediction model
+- 🔮 Future unemployment rate prediction
+- 📉 Statistical analysis and EDA
+- 🎯 User-friendly interactive Streamlit dashboard
+
+---
+
+# 🧠 Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- NumPy
+- Plotly
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+---
+
+# 📂 Dataset Information
+
+The dataset contains unemployment statistics of Indian states during the Covid-19 pandemic.
+
+## 📌 Dataset Features
+
+| Feature | Description |
+|---|---|
+| Region | State Name |
+| Date | Record Date |
+| Estimated Unemployment Rate (%) | Unemployment percentage |
+| Estimated Employed | Number of employed people |
+| Estimated Labour Participation Rate (%) | Labour participation percentage |
+| Area | Urban / Rural |
+
+---
+
+# 📊 Exploratory Data Analysis (EDA)
+
+The project performs detailed data analysis including:
+
+- Missing value checking
+- Data cleaning
+- Statistical summary
+- Trend analysis
+- Correlation analysis
+- State-wise comparison
+- Rural vs Urban analysis
+
+---
+
+# 📈 Key Insights
+
+- Covid-19 significantly increased unemployment rates across India.
+- Urban areas were more affected during lockdown periods.
+- States like Bihar, Haryana, and Jharkhand showed higher unemployment rates.
+- Employment recovery patterns differed across states.
+- Labour participation rate strongly impacts unemployment trends.
+
+---
+
+# 🤖 Machine Learning Model
+
+## ✅ Model Used
+- Linear Regression
+
+## 📌 Input Features
+- Estimated Employed
+- Labour Participation Rate
+- Month
+- Year
+
+## ⚙️ ML Workflow
+
+1. Data Cleaning
+2. Feature Engineering
+3. Data Preprocessing
+4. Train-Test Split
+5. Model Training
+6. Model Evaluation
+7. Future Prediction
+
+---
+
+# 📉 Model Evaluation Metrics
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R² Score
+
+---
+
+# 🔮 Future Prediction System
+
+Users can enter:
+- Employment Count
+- Labour Participation Rate
+- Month
+- Year
+
+The model predicts the estimated unemployment rate instantly.
+
+---
+
+# 🖥️ Interactive Dashboard
+
+The Streamlit dashboard includes:
+
+- Dynamic filters
+- Interactive charts
+- Trend visualizations
+- Heatmaps
+- Prediction system
+- Comparative analysis
+
+---
+
+# 📂 Project Structure
+
+```bash
+Task2_Unemployment_Analysis/
+│
+├── Unemployment_Project/
+│     ├── app.py
+│     ├── unemployment_model.pkl
+│     ├── Unemployment in India.csv
+│     ├── Area_Wise_Unemployment.png
+│     ├── Correlation_Heatmap.png
+│     ├── State_Wise_Avg_Unemployment.png
+│     ├── Unemployment_Rate_Distribution.png
+│     └── Covid_Impact_Trends.png
+│
+├── Task2/
+│     ├── PanthiniPatel_Task2.ipynb
+│     ├── unemployment_model.pkl
+│     ├── Unemployment in India.csv
+│     ├── Area_Wise_Unemployment.png
+│     ├── Correlation_Heatmap.png
+│     ├── State_Wise_Avg_Unemployment.png
+│     ├── Unemployment_Rate_Distribution.png
+│     └── Covid_Impact_Trends.png
+│
+└── README.md
+```
+
+---
+
+# ▶️ Installation & Setup
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/panthinipatel5/OIBSIP.git
+```
+
+---
+
+## 2️⃣ Run Streamlit App
+
+```bash
+streamlit run app.py
+```
+
+---
+
+# 💾 Model Saving
+
+```python
+joblib.dump(model, "unemployment_model.pkl")
+```
+
+---
+
+# 🌟 Future Improvements
+
+- Advanced ML Models (Random Forest / XGBoost)
+- Real-time data integration
+- Better forecasting models
+- Dashboard UI enhancement
+- Deployment on Streamlit Cloud
+
+---
+
+# 📜 License
+
+This project is open-source and available for educational and learning purposes.
+
+---
+
+# 👨‍💻 Author
+
+Panthini Patel
