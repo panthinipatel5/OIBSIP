@@ -263,7 +263,7 @@ Predict future product sales based on TV, Radio, and Newspaper advertising inves
 Clone repository:
 
 ```bash
-git clone https://github.com/yourusername/OIBSIP.git
+git clone https://github.com/panthinipatel5/OIBSIP.git
 ```
 
 Move into folder:
