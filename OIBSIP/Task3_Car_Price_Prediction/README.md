@@ -245,7 +245,7 @@ screenshots/
 ├── Year Wise Trend Analysis.png
 ├── Correlation Heatmap.png
 ├── Prediction_Output.png
-└── Fuel Type Analysis
+└── Fuel Type Analysis.png
 ```
 
 ---
@@ -278,7 +278,7 @@ Task3_Car_Price_Prediction/
 │     ├── Year Wise Trend Analysis.png
 │     ├── Correlation Heatmap.png
 │     ├── Prediction_Output.png
-│     └── Fuel Type Analysis
+│     └── Fuel Type Analysis.png
 │
 └── README.md
 ```
