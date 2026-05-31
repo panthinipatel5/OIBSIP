@@ -137,10 +137,15 @@ An interactive dashboard that predicts flower species using measurements of peta
 ### Features
 
 ✅ Flower Species Prediction
+
 ✅ Exploratory Data Analysis
+
 ✅ Correlation Heatmaps
+
 ✅ Interactive Charts
+
 ✅ Real-Time Prediction
+
 ✅ Random Forest Classification
 
 ### Technologies Used
@@ -170,10 +175,15 @@ A dashboard analyzing unemployment trends across India during Covid-19.
 ### Features
 
 ✅ State-wise Analysis
+
 ✅ Urban vs Rural Comparison
+
 ✅ Trend Visualization
+
 ✅ Correlation Heatmap
+
 ✅ Future Prediction System
+
 ✅ Interactive Dashboard
 
 ### ML Model
