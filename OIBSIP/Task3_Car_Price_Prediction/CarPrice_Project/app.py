@@ -155,7 +155,7 @@ st.markdown("---")
 
 #prediction section
 
-st.subheader("🔮 Future Car Price Prediction")
+st.subheader("🔮 Car Price Prediction")
 year = st.number_input("Year", 2000, 2025, 2015)
 present_price = st.number_input("Present Price (Lakhs)", 0.0, 50.0, 5.0)
 kms = st.number_input("Driven KMs", 0, 200000, 30000)
