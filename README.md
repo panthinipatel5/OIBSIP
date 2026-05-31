@@ -94,11 +94,11 @@ The projects included in this repository utilize publicly available datasets com
 
 | Task                  | Dataset                     |
 | --------------------- | --------------------------- |
-| Iris Classification   | Iris Flower Dataset         |
-| Unemployment Analysis | India Unemployment Dataset  |
-| Car Price Prediction  | Used Car Dataset            |
-| Email Spam Detection  | SMS Spam Collection Dataset |
-| Sales Prediction      | Advertising Sales Dataset   |
+| Iris Classification   | Iris.csv                    |
+| Unemployment Analysis | Unemployment in India.csv   |
+| Car Price Prediction  | car data.csv                |
+| Email Spam Detection  | spam.csv                    |
+| Sales Prediction      | Advertising.csv             |
 
 All datasets were used strictly for educational and internship learning purposes.
 
